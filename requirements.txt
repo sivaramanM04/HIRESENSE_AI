@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+python-dotenv
+
+streamlit-ace
+
+pandas
+numpy
+
+PyPDF2
+
+reportlab
+
+requests
