@@ -11,8 +11,6 @@ requests
 
 pandas
 numpy
-
-PyPDF2
 reportlab
 
 streamlit-oauth
